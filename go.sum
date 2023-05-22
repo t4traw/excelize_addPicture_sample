@@ -19,10 +19,12 @@ github.com/xuri/efp v0.0.0-20220603152613-6918739fd470 h1:6932x8ltq1w4utjmfMPVj0
 github.com/xuri/efp v0.0.0-20220603152613-6918739fd470/go.mod h1:ybY/Jr0T0GTCnYjKqmdwxyxn2BQf2RcQIIvex5QldPI=
 github.com/xuri/efp v0.0.0-20230422071738-01f4e37c47e9 h1:ge5g8vsTQclA5lXDi+PuiAFw5GMIlMHOB/5e1hsf96E=
 github.com/xuri/efp v0.0.0-20230422071738-01f4e37c47e9/go.mod h1:ybY/Jr0T0GTCnYjKqmdwxyxn2BQf2RcQIIvex5QldPI=
-github.com/xuri/excelize/v2 v2.7.1+incompatible h1:czgYDj8dNQy1sHoTNZ6cTf5LtWSuME6l8aKd1mdajV8=
 github.com/xuri/excelize/v2 v2.7.1+incompatible/go.mod h1:qc0+2j4TvAUrBw36ATtcTeC1VCM0fFdAXZOmcF4nTpY=
+github.com/xuri/excelize/v2 v2.7.1+incompatible h1:czgYDj8dNQy1sHoTNZ6cTf5LtWSuME6l8aKd1mdajV8=
 github.com/xuri/excelize/v2 v2.7.2-0.20230518123316-08ba2723fe69 h1:vRP+oJbJIj2SM/ucm88vE39duWL5EMsu8od6uXNskzc=
 github.com/xuri/excelize/v2 v2.7.2-0.20230518123316-08ba2723fe69/go.mod h1:ejxK/GVQckqRTIU0qzshtlPKdiWdxLtkjT6/x842Lzg=
+github.com/xuri/excelize/v2 v2.7.2-0.20230519115318-a246db6a401d h1:f+el6lkQxVAunkyiwwtQTML3jLXI8/uK5RV1GdmpnBw=
+github.com/xuri/excelize/v2 v2.7.2-0.20230519115318-a246db6a401d/go.mod h1:ejxK/GVQckqRTIU0qzshtlPKdiWdxLtkjT6/x842Lzg=
 github.com/xuri/nfp v0.0.0-20220409054826-5e722a1d9e22 h1:OAmKAfT06//esDdpi/DZ8Qsdt4+M5+ltca05dA5bG2M=
 github.com/xuri/nfp v0.0.0-20220409054826-5e722a1d9e22/go.mod h1:WwHg+CVyzlv/TX9xqBFXEZAuxOPxn2k1GNHwG41IIUQ=
 github.com/xuri/nfp v0.0.0-20230503010013-3f38cdbb0b83 h1:xVwnvkzzi+OiwhIkWOXvh1skFI6bagk8OvGuazM80Rw=
