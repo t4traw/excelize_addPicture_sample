@@ -8,7 +8,7 @@ import (
 )
 
 func main() {
-	xlsx, _ := excelize.OpenFile("template_1.xlsx")
+	xlsx, _ := excelize.OpenFile("template.xlsx")
 	pos, _ := xlsx.SearchSheet("Sheet1", "[photo]")
 	graphicOptions := excelize.GraphicOptions{
 		AutoFit:         true,
